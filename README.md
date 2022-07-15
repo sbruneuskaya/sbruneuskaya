@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/bzoD9WOiU1wAg" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-hachi-akita-bzoD9WOiU1wAg">via GIPHY</a></p>
+</div>
+
 ### Hi there 👋
 
 <!--

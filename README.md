@@ -4,6 +4,15 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="480"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/svetlana-bruneuskaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Bruneuskaya">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 
 <!--
 <div id="header" align="center">
